@@ -2,4 +2,4 @@
 A simple birthday reminder React app. 
 Built as part of a [React course](https://www.udemy.com/course/react-tutorial-and-projects-course)
 
-## [Visit project site](https://obrm-birthday-reminder.netlify.app/)
+[Visit project site](https://obrm-birthday-reminder.netlify.app/)
